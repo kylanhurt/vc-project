@@ -63,11 +63,18 @@ const Deposit = () => {
       setTransactions((prev) => [...prev, txData]);
     });
 
-    const txData = [
-      await web3.eth.getTransaction(FAKE_LOG_DATA[0].transactionHash),
-      await web3.eth.getTransaction(FAKE_LOG_DATA[1].transactionHash),
-    ];
-    setTransactions((prev) => [...prev, ...txData]);
+    subscription1.on("error", (err) => {
+      console.warn("error", err);
+    });
+
+    const tx1Promise = web3.eth.getTransaction(
+      FAKE_LOG_DATA[0].transactionHash
+    );
+    const tx2Promise = web3.eth.getTransaction(
+      FAKE_LOG_DATA[1].transactionHash
+    );
+    const txs = await Promise.all([tx1Promise, tx2Promise]);
+    setTransactions((prev) => [...prev, ...txs]);
   };
 
   useEffect(() => {
