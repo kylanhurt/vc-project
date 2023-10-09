@@ -60,7 +60,7 @@ const Deposit = () => {
 
     subscription1.on("data", async (data) => {
       const txData = await web3.eth.getTransaction(data.transactionHash);
-      setTransactions((prev) => [...prev, txData]);
+      setTransactions((prev) => [txData, ...prev]);
     });
 
     subscription1.on("error", (err) => {
