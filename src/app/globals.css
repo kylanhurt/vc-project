@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  background-color: #f3f1f3;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    background-color: #f3f1f3;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
+
+button {
+  box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.24);
+  transition: 0.2s all;
+}
+
+button:active {
+  transform: scale(0.98);
+  /* Scaling button to 0.98 to its original size */
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.14);
+  /* Lowering the shadow */
+}
+
+.toolbar .image-wrap {
+  width: calc((100% - (1280px)) / 2);
+}
+
+header .nav {
+  width: 1280px;
+}
+
+.btn {
+  @apply rounded-md px-4 py-2 text-white bg-red-500 flex flex-row space-x-2 hover:cursor-pointer justify-center items-center;
+}
+
+.accountInfo {
+  background-color: white;
+  color: #666;
+}
+
+.tx-link {
+  @apply hover:underline underline-offset-2;
+}

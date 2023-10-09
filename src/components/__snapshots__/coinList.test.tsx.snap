@@ -1,0 +1,6606 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CoinList /> renders correctly 1`] = `
+[
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        1
+      </div>
+      <img
+        alt="Bitcoin"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F1%2Flarge%2Fbitcoin.png%3F1547033579&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F1%2Flarge%2Fbitcoin.png%3F1547033579&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F1%2Flarge%2Fbitcoin.png%3F1547033579&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Bitcoin
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          BTC
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        28,308
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        551,290,758,302
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        4.35
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        2
+      </div>
+      <img
+        alt="Ethereum"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F279%2Flarge%2Fethereum.png%3F1595348880&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F279%2Flarge%2Fethereum.png%3F1595348880&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F279%2Flarge%2Fethereum.png%3F1595348880&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Ethereum
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          ETH
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        1,713.17
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        205,863,242,793
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        1.83
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        3
+      </div>
+      <img
+        alt="Tether"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F325%2Flarge%2FTether.png%3F1668148663&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F325%2Flarge%2FTether.png%3F1668148663&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F325%2Flarge%2FTether.png%3F1668148663&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Tether
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          USDT
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.998
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        83,063,042,982
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -0.27
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        4
+      </div>
+      <img
+        alt="BNB"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F825%2Flarge%2Fbnb-icon2_2x.png%3F1644979850&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F825%2Flarge%2Fbnb-icon2_2x.png%3F1644979850&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F825%2Flarge%2Fbnb-icon2_2x.png%3F1644979850&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          BNB
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          BNB
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        218.08
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        33,533,189,559
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        1.22
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        5
+      </div>
+      <img
+        alt="XRP"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F44%2Flarge%2Fxrp-symbol-white-128.png%3F1605778731&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F44%2Flarge%2Fxrp-symbol-white-128.png%3F1605778731&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F44%2Flarge%2Fxrp-symbol-white-128.png%3F1605778731&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          XRP
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          XRP
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.522
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        27,820,150,885
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        0.54
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        6
+      </div>
+      <img
+        alt="USDC"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F6319%2Flarge%2Fusdc.png%3F1695374272&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F6319%2Flarge%2Fusdc.png%3F1695374272&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F6319%2Flarge%2Fusdc.png%3F1695374272&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          USDC
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          USDC
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        1
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        25,287,267,289
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -0.00
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        7
+      </div>
+      <img
+        alt="Lido Staked Ether"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F13442%2Flarge%2Fsteth_logo.png%3F1608607546&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F13442%2Flarge%2Fsteth_logo.png%3F1608607546&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F13442%2Flarge%2Fsteth_logo.png%3F1608607546&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Lido Staked Ether
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          STETH
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        1,711.6
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        15,044,132,618
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        1.71
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        8
+      </div>
+      <img
+        alt="Solana"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F4128%2Flarge%2Fsolana.png%3F1640133422&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F4128%2Flarge%2Fsolana.png%3F1640133422&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F4128%2Flarge%2Fsolana.png%3F1640133422&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Solana
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          SOL
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        24.28
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        10,027,790,237
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        5.08
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        9
+      </div>
+      <img
+        alt="Cardano"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F975%2Flarge%2Fcardano.png%3F1547034860&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F975%2Flarge%2Fcardano.png%3F1547034860&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F975%2Flarge%2Fcardano.png%3F1547034860&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Cardano
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          ADA
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.266
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        9,324,228,160
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        2.44
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        10
+      </div>
+      <img
+        alt="Dogecoin"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F5%2Flarge%2Fdogecoin.png%3F1547792256&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F5%2Flarge%2Fdogecoin.png%3F1547792256&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F5%2Flarge%2Fdogecoin.png%3F1547792256&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Dogecoin
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          DOGE
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.063
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        8,922,516,659
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        1.16
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        11
+      </div>
+      <img
+        alt="TRON"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F1094%2Flarge%2Ftron-logo.png%3F1547035066&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F1094%2Flarge%2Ftron-logo.png%3F1547035066&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F1094%2Flarge%2Ftron-logo.png%3F1547035066&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          TRON
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          TRX
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.089
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        7,920,578,578
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        0.24
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        12
+      </div>
+      <img
+        alt="Toncoin"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F17980%2Flarge%2Fton_symbol.png%3F1670498136&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F17980%2Flarge%2Fton_symbol.png%3F1670498136&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F17980%2Flarge%2Fton_symbol.png%3F1670498136&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Toncoin
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          TON
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        2.03
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        7,010,171,126
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -1.47
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        13
+      </div>
+      <img
+        alt="Polkadot"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F12171%2Flarge%2Fpolkadot.png%3F1639712644&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F12171%2Flarge%2Fpolkadot.png%3F1639712644&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F12171%2Flarge%2Fpolkadot.png%3F1639712644&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Polkadot
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          DOT
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        4.21
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        5,389,756,025
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        0.46
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        14
+      </div>
+      <img
+        alt="Polygon"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F4713%2Flarge%2Fmatic-token-icon.png%3F1624446912&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F4713%2Flarge%2Fmatic-token-icon.png%3F1624446912&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F4713%2Flarge%2Fmatic-token-icon.png%3F1624446912&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Polygon
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          MATIC
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.561
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        5,213,141,404
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        1.18
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        15
+      </div>
+      <img
+        alt="Litecoin"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F2%2Flarge%2Flitecoin.png%3F1547033580&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F2%2Flarge%2Flitecoin.png%3F1547033580&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F2%2Flarge%2Flitecoin.png%3F1547033580&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Litecoin
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          LTC
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        67.4
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        4,965,549,213
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        0.99
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        16
+      </div>
+      <img
+        alt="Bitcoin Cash"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F780%2Flarge%2Fbitcoin-cash-circle.png%3F1594689492&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F780%2Flarge%2Fbitcoin-cash-circle.png%3F1594689492&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F780%2Flarge%2Fbitcoin-cash-circle.png%3F1594689492&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Bitcoin Cash
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          BCH
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        254.31
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        4,955,213,833
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        7.87
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        17
+      </div>
+      <img
+        alt="Wrapped Bitcoin"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F7598%2Flarge%2Fwrapped_bitcoin_wbtc.png%3F1548822744&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F7598%2Flarge%2Fwrapped_bitcoin_wbtc.png%3F1548822744&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F7598%2Flarge%2Fwrapped_bitcoin_wbtc.png%3F1548822744&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Wrapped Bitcoin
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          WBTC
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        28,270
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        4,613,354,066
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        4.02
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        18
+      </div>
+      <img
+        alt="Shiba Inu"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F11939%2Flarge%2Fshiba.png%3F1622619446&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F11939%2Flarge%2Fshiba.png%3F1622619446&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F11939%2Flarge%2Fshiba.png%3F1622619446&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Shiba Inu
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          SHIB
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        4,401,658,475
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        0.60
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        19
+      </div>
+      <img
+        alt="Chainlink"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F877%2Flarge%2Fchainlink-new-logo.png%3F1547034700&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F877%2Flarge%2Fchainlink-new-logo.png%3F1547034700&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F877%2Flarge%2Fchainlink-new-logo.png%3F1547034700&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Chainlink
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          LINK
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        7.78
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        4,322,783,794
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -2.70
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        20
+      </div>
+      <img
+        alt="Dai"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F9956%2Flarge%2FBadge_Dai.png%3F1687143508&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F9956%2Flarge%2FBadge_Dai.png%3F1687143508&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F9956%2Flarge%2FBadge_Dai.png%3F1687143508&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Dai
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          DAI
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.999
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        3,818,375,531
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -0.04
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        22
+      </div>
+      <img
+        alt="TrueUSD"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F3449%2Flarge%2Ftusd.png%3F1618395665&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F3449%2Flarge%2Ftusd.png%3F1618395665&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F3449%2Flarge%2Ftusd.png%3F1618395665&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          TrueUSD
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          TUSD
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.999
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        3,446,177,557
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -0.01
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        21
+      </div>
+      <img
+        alt="Uniswap"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F12504%2Flarge%2Funi.jpg%3F1687143398&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F12504%2Flarge%2Funi.jpg%3F1687143398&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F12504%2Flarge%2Funi.jpg%3F1687143398&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Uniswap
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          UNI
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        4.57
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        3,443,791,258
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        0.46
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        23
+      </div>
+      <img
+        alt="LEO Token"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F8418%2Flarge%2Fleo-token.png%3F1558326215&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F8418%2Flarge%2Fleo-token.png%3F1558326215&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F8418%2Flarge%2Fleo-token.png%3F1558326215&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          LEO Token
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          LEO
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        3.67
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        3,413,779,694
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -0.10
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        24
+      </div>
+      <img
+        alt="Avalanche"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F12559%2Flarge%2FAvalanche_Circle_RedWhite_Trans.png%3F1670992574&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F12559%2Flarge%2FAvalanche_Circle_RedWhite_Trans.png%3F1670992574&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F12559%2Flarge%2FAvalanche_Circle_RedWhite_Trans.png%3F1670992574&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Avalanche
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          AVAX
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        9.59
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        3,391,219,856
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -0.05
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        25
+      </div>
+      <img
+        alt="Stellar"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F100%2Flarge%2FStellar_symbol_black_RGB.png%3F1552356157&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F100%2Flarge%2FStellar_symbol_black_RGB.png%3F1552356157&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F100%2Flarge%2FStellar_symbol_black_RGB.png%3F1552356157&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Stellar
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          XLM
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.114
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        3,151,288,631
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        0.67
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        26
+      </div>
+      <img
+        alt="Monero"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F69%2Flarge%2Fmonero_logo.png%3F1547033729&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F69%2Flarge%2Fmonero_logo.png%3F1547033729&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F69%2Flarge%2Fmonero_logo.png%3F1547033729&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Monero
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          XMR
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        148.09
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        2,687,138,755
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        0.74
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        27
+      </div>
+      <img
+        alt="OKB"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F4463%2Flarge%2FWeChat_Image_20220118095654.png%3F1642471050&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F4463%2Flarge%2FWeChat_Image_20220118095654.png%3F1642471050&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F4463%2Flarge%2FWeChat_Image_20220118095654.png%3F1642471050&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          OKB
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          OKB
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        43.35
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        2,599,383,131
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -0.15
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        28
+      </div>
+      <img
+        alt="Ethereum Classic"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F453%2Flarge%2Fethereum-classic-logo.png%3F1547034169&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F453%2Flarge%2Fethereum-classic-logo.png%3F1547034169&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F453%2Flarge%2Fethereum-classic-logo.png%3F1547034169&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Ethereum Classic
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          ETC
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        16.62
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        2,377,683,898
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        1.26
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        29
+      </div>
+      <img
+        alt="BUSD"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F9576%2Flarge%2FBUSDLOGO.jpg%3F1695626858&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F9576%2Flarge%2FBUSDLOGO.jpg%3F1695626858&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F9576%2Flarge%2FBUSDLOGO.jpg%3F1695626858&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          BUSD
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          BUSD
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        1.001
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        2,262,122,944
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        0.16
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        30
+      </div>
+      <img
+        alt="Cosmos Hub"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F1481%2Flarge%2Fcosmos_hub.png%3F1555657960&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F1481%2Flarge%2Fcosmos_hub.png%3F1555657960&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F1481%2Flarge%2Fcosmos_hub.png%3F1555657960&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Cosmos Hub
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          ATOM
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        7.39
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        2,159,738,995
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        1.30
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        31
+      </div>
+      <img
+        alt="Hedera"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F3688%2Flarge%2Fhbar.png%3F1637045634&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F3688%2Flarge%2Fhbar.png%3F1637045634&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F3688%2Flarge%2Fhbar.png%3F1637045634&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Hedera
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          HBAR
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.051
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        1,708,554,898
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        1.29
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        32
+      </div>
+      <img
+        alt="Filecoin"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F12817%2Flarge%2Ffilecoin.png%3F1602753933&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F12817%2Flarge%2Ffilecoin.png%3F1602753933&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F12817%2Flarge%2Ffilecoin.png%3F1602753933&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Filecoin
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          FIL
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        3.4
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        1,541,475,357
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        0.88
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        33
+      </div>
+      <img
+        alt="Lido DAO"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F13573%2Flarge%2FLido_DAO.png%3F1609873644&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F13573%2Flarge%2FLido_DAO.png%3F1609873644&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F13573%2Flarge%2FLido_DAO.png%3F1609873644&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Lido DAO
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          LDO
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        1.63
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        1,447,465,712
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -2.06
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        34
+      </div>
+      <img
+        alt="Internet Computer"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F14495%2Flarge%2FInternet_Computer_logo.png%3F1620703073&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F14495%2Flarge%2FInternet_Computer_logo.png%3F1620703073&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F14495%2Flarge%2FInternet_Computer_logo.png%3F1620703073&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Internet Computer
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          ICP
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        3.2
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        1,425,411,580
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -1.19
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        35
+      </div>
+      <img
+        alt="Mantle"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F30980%2Flarge%2Ftoken-logo.png%3F1689320029&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F30980%2Flarge%2Ftoken-logo.png%3F1689320029&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F30980%2Flarge%2Ftoken-logo.png%3F1689320029&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Mantle
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          MNT
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.42
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        1,358,276,039
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        5.75
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        36
+      </div>
+      <img
+        alt="Cronos"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F7310%2Flarge%2Fcro_token_logo.png%3F1669699773&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F7310%2Flarge%2Fcro_token_logo.png%3F1669699773&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F7310%2Flarge%2Fcro_token_logo.png%3F1669699773&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Cronos
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          CRO
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.051
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        1,350,923,848
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        0.79
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        37
+      </div>
+      <img
+        alt="Maker"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F1364%2Flarge%2FMark_Maker.png%3F1585191826&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F1364%2Flarge%2FMark_Maker.png%3F1585191826&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F1364%2Flarge%2FMark_Maker.png%3F1585191826&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Maker
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          MKR
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        1,481.99
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        1,335,465,034
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -3.84
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        38
+      </div>
+      <img
+        alt="Aptos"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F26455%2Flarge%2Faptos_round.png%3F1666839629&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F26455%2Flarge%2Faptos_round.png%3F1666839629&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F26455%2Flarge%2Faptos_round.png%3F1666839629&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Aptos
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          APT
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        5.56
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        1,321,243,024
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        0.18
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        39
+      </div>
+      <img
+        alt="Quant"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F3370%2Flarge%2F5ZOu7brX_400x400.jpg%3F1612437252&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F3370%2Flarge%2F5ZOu7brX_400x400.jpg%3F1612437252&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F3370%2Flarge%2F5ZOu7brX_400x400.jpg%3F1612437252&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Quant
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          QNT
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        89.96
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        1,308,231,998
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -0.12
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        40
+      </div>
+      <img
+        alt="VeChain"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F1167%2Flarge%2FVET_Token_Icon.png%3F1680067517&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F1167%2Flarge%2FVET_Token_Icon.png%3F1680067517&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F1167%2Flarge%2FVET_Token_Icon.png%3F1680067517&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          VeChain
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          VET
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.017
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        1,265,222,472
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        0.80
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        41
+      </div>
+      <img
+        alt="Arbitrum"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F16547%2Flarge%2Fphoto_2023-03-29_21.47.00.jpeg%3F1680097630&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F16547%2Flarge%2Fphoto_2023-03-29_21.47.00.jpeg%3F1680097630&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F16547%2Flarge%2Fphoto_2023-03-29_21.47.00.jpeg%3F1680097630&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Arbitrum
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          ARB
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.966
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        1,230,558,062
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        2.19
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        42
+      </div>
+      <img
+        alt="Optimism"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F25244%2Flarge%2FOptimism.png%3F1660904599&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F25244%2Flarge%2FOptimism.png%3F1660904599&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F25244%2Flarge%2FOptimism.png%3F1660904599&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Optimism
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          OP
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        1.44
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        1,149,862,901
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        3.94
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        43
+      </div>
+      <img
+        alt="NEAR Protocol"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F10365%2Flarge%2Fnear.jpg%3F1683515160&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F10365%2Flarge%2Fnear.jpg%3F1683515160&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F10365%2Flarge%2Fnear.jpg%3F1683515160&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          NEAR Protocol
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          NEAR
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        1.14
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        1,114,688,735
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -0.39
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        44
+      </div>
+      <img
+        alt="Kaspa"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F25751%2Flarge%2Fkaspa-icon-exchanges.png%3F1653891958&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F25751%2Flarge%2Fkaspa-icon-exchanges.png%3F1653891958&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F25751%2Flarge%2Fkaspa-icon-exchanges.png%3F1653891958&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Kaspa
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          KAS
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.05
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        1,052,004,457
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -1.14
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        45
+      </div>
+      <img
+        alt="Aave"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F12645%2Flarge%2FAAVE.png%3F1601374110&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F12645%2Flarge%2FAAVE.png%3F1601374110&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F12645%2Flarge%2FAAVE.png%3F1601374110&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Aave
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          AAVE
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        69.55
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        1,013,210,797
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        0.88
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        46
+      </div>
+      <img
+        alt="Rocket Pool ETH"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F20764%2Flarge%2Freth.png%3F1637652366&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F20764%2Flarge%2Freth.png%3F1637652366&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F20764%2Flarge%2Freth.png%3F1637652366&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Rocket Pool ETH
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          RETH
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        1,861.33
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        985,685,778
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        2.13
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        47
+      </div>
+      <img
+        alt="The Graph"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F13397%2Flarge%2FGraph_Token.png%3F1608145566&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F13397%2Flarge%2FGraph_Token.png%3F1608145566&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F13397%2Flarge%2FGraph_Token.png%3F1608145566&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          The Graph
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          GRT
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.091
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        839,014,093
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        0.03
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        48
+      </div>
+      <img
+        alt="Algorand"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F4380%2Flarge%2Fdownload.png%3F1547039725&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F4380%2Flarge%2Fdownload.png%3F1547039725&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F4380%2Flarge%2Fdownload.png%3F1547039725&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Algorand
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          ALGO
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.103
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        806,828,152
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -0.42
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        49
+      </div>
+      <img
+        alt="WhiteBIT Coin"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F27045%2Flarge%2Fwbt_token.png%3F1667923752&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F27045%2Flarge%2Fwbt_token.png%3F1667923752&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F27045%2Flarge%2Fwbt_token.png%3F1667923752&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          WhiteBIT Coin
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          WBT
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        5.19
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        749,249,790
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        0.48
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        51
+      </div>
+      <img
+        alt="Bitcoin SV"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F6799%2Flarge%2FBSV.png%3F1558947902&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F6799%2Flarge%2FBSV.png%3F1558947902&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F6799%2Flarge%2FBSV.png%3F1558947902&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Bitcoin SV
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          BSV
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        38.9
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        747,723,801
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        22.14
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        50
+      </div>
+      <img
+        alt="Stacks"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F2069%2Flarge%2FStacks_logo_full.png%3F1604112510&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F2069%2Flarge%2FStacks_logo_full.png%3F1604112510&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F2069%2Flarge%2FStacks_logo_full.png%3F1604112510&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Stacks
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          STX
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.527
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        741,957,485
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        5.24
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        52
+      </div>
+      <img
+        alt="USDD"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F25380%2Flarge%2FUUSD.jpg%3F1651823371&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F25380%2Flarge%2FUUSD.jpg%3F1651823371&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F25380%2Flarge%2FUUSD.jpg%3F1651823371&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          USDD
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          USDD
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.998
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        727,054,394
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -0.01
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        53
+      </div>
+      <img
+        alt="XDC Network"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F2912%2Flarge%2Fxdc-icon.png%3F1633700890&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F2912%2Flarge%2Fxdc-icon.png%3F1633700890&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F2912%2Flarge%2Fxdc-icon.png%3F1633700890&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          XDC Network
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          XDC
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.05
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        699,680,420
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -0.18
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        54
+      </div>
+      <img
+        alt="ImmutableX"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F17233%2Flarge%2FimmutableX-symbol-BLK-RGB.png%3F1665110648&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F17233%2Flarge%2FimmutableX-symbol-BLK-RGB.png%3F1665110648&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F17233%2Flarge%2FimmutableX-symbol-BLK-RGB.png%3F1665110648&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          ImmutableX
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          IMX
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.598
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        697,226,272
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -0.76
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        55
+      </div>
+      <img
+        alt="Synthetix Network"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F3406%2Flarge%2FSNX.png%3F1598631139&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F3406%2Flarge%2FSNX.png%3F1598631139&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F3406%2Flarge%2FSNX.png%3F1598631139&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Synthetix Network
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          SNX
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        2.13
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        687,723,194
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -0.12
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        56
+      </div>
+      <img
+        alt="Frax"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F13422%2Flarge%2FFRAX_icon.png%3F1679886922&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F13422%2Flarge%2FFRAX_icon.png%3F1679886922&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F13422%2Flarge%2FFRAX_icon.png%3F1679886922&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Frax
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          FRAX
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.997
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        669,139,843
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        0.12
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        57
+      </div>
+      <img
+        alt="EOS"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F738%2Flarge%2Feos-eos-logo.png%3F1547034481&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F738%2Flarge%2Feos-eos-logo.png%3F1547034481&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F738%2Flarge%2Feos-eos-logo.png%3F1547034481&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          EOS
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          EOS
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.596
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        668,461,911
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        0.67
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        58
+      </div>
+      <img
+        alt="MultiversX"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F12335%2Flarge%2Fegld-token-logo.png%3F1673490885&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F12335%2Flarge%2Fegld-token-logo.png%3F1673490885&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F12335%2Flarge%2Fegld-token-logo.png%3F1673490885&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          MultiversX
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          EGLD
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        25.56
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        664,840,815
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -0.39
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        59
+      </div>
+      <img
+        alt="Tezos"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F976%2Flarge%2FTezos-logo.png%3F1547034862&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F976%2Flarge%2FTezos-logo.png%3F1547034862&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F976%2Flarge%2FTezos-logo.png%3F1547034862&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Tezos
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          XTZ
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.692
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        655,039,360
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -0.42
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        61
+      </div>
+      <img
+        alt="The Sandbox"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F12129%2Flarge%2Fsandbox_logo.jpg%3F1597397942&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F12129%2Flarge%2Fsandbox_logo.jpg%3F1597397942&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F12129%2Flarge%2Fsandbox_logo.jpg%3F1597397942&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          The Sandbox
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          SAND
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.316
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        652,595,278
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -0.14
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        60
+      </div>
+      <img
+        alt="Theta Network"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F2538%2Flarge%2Ftheta-token-logo.png%3F1548387191&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F2538%2Flarge%2Ftheta-token-logo.png%3F1548387191&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F2538%2Flarge%2Ftheta-token-logo.png%3F1548387191&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Theta Network
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          THETA
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.652
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        652,258,778
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -1.21
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        63
+      </div>
+      <img
+        alt="Render"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F11636%2Flarge%2Frndr.png%3F1638840934&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F11636%2Flarge%2Frndr.png%3F1638840934&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F11636%2Flarge%2Frndr.png%3F1638840934&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Render
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          RNDR
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        1.74
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        648,076,340
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        8.06
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        62
+      </div>
+      <img
+        alt="Injective"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F12882%2Flarge%2FSecondary_Symbol.png%3F1628233237&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F12882%2Flarge%2FSecondary_Symbol.png%3F1628233237&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F12882%2Flarge%2FSecondary_Symbol.png%3F1628233237&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Injective
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          INJ
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        7.75
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        648,046,710
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -1.70
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        64
+      </div>
+      <img
+        alt="THORChain"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F6595%2Flarge%2FRune200x200.png%3F1671179394&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F6595%2Flarge%2FRune200x200.png%3F1671179394&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F6595%2Flarge%2FRune200x200.png%3F1671179394&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          THORChain
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          RUNE
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        2.13
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        641,208,939
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        12.19
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        65
+      </div>
+      <img
+        alt="Bitget Token"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F11610%2Flarge%2Ficon_colour.png%3F1690515455&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F11610%2Flarge%2Ficon_colour.png%3F1690515455&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F11610%2Flarge%2Ficon_colour.png%3F1690515455&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Bitget Token
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          BGB
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.456
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        638,654,690
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        0.86
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        66
+      </div>
+      <img
+        alt="Axie Infinity"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F13029%2Flarge%2Faxie_infinity_logo.png%3F1604471082&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F13029%2Flarge%2Faxie_infinity_logo.png%3F1604471082&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F13029%2Flarge%2Faxie_infinity_logo.png%3F1604471082&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Axie Infinity
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          AXS
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        4.67
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        612,746,305
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -0.62
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        67
+      </div>
+      <img
+        alt="Radix"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F4374%2Flarge%2FRadix.png%3F1629701658&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F4374%2Flarge%2FRadix.png%3F1629701658&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F4374%2Flarge%2FRadix.png%3F1629701658&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Radix
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          XRD
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.058
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        593,581,047
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -1.10
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        68
+      </div>
+      <img
+        alt="Decentraland"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F878%2Flarge%2Fdecentraland-mana.png%3F1550108745&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F878%2Flarge%2Fdecentraland-mana.png%3F1550108745&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F878%2Flarge%2Fdecentraland-mana.png%3F1550108745&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Decentraland
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          MANA
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.318
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        586,548,087
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        0.90
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        69
+      </div>
+      <img
+        alt="Fantom"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F4001%2Flarge%2FFantom_round.png%3F1669652346&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F4001%2Flarge%2FFantom_round.png%3F1669652346&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F4001%2Flarge%2FFantom_round.png%3F1669652346&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Fantom
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          FTM
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.204
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        571,020,054
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -0.62
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        70
+      </div>
+      <img
+        alt="eCash"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F16646%2Flarge%2FLogo_final-22.png%3F1628239446&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F16646%2Flarge%2FLogo_final-22.png%3F1628239446&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F16646%2Flarge%2FLogo_final-22.png%3F1628239446&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          eCash
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          XEC
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        538,724,788
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        10.51
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        71
+      </div>
+      <img
+        alt="NEO"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F480%2Flarge%2FNEO_512_512.png%3F1594357361&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F480%2Flarge%2FNEO_512_512.png%3F1594357361&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F480%2Flarge%2FNEO_512_512.png%3F1594357361&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          NEO
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          NEO
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        7.48
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        527,163,296
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -0.83
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        72
+      </div>
+      <img
+        alt="Kava"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F9761%2Flarge%2Fkava.png%3F1663638871&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F9761%2Flarge%2Fkava.png%3F1663638871&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F9761%2Flarge%2Fkava.png%3F1663638871&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Kava
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          KAVA
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.649
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        526,790,241
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        1.58
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        73
+      </div>
+      <img
+        alt="Gate"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F8183%2Flarge%2Fgate.png%3F1687143308&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F8183%2Flarge%2Fgate.png%3F1687143308&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F8183%2Flarge%2Fgate.png%3F1687143308&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Gate
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          GT
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        3.77
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        518,183,382
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        0.77
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        74
+      </div>
+      <img
+        alt="Pax Dollar"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F6013%2Flarge%2FPax_Dollar.png%3F1629877204&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F6013%2Flarge%2FPax_Dollar.png%3F1629877204&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F6013%2Flarge%2FPax_Dollar.png%3F1629877204&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Pax Dollar
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          USDP
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.999
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        485,497,402
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        0.03
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        75
+      </div>
+      <img
+        alt="cETH"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F10643%2Flarge%2Fceth.png%3F1687143191&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F10643%2Flarge%2Fceth.png%3F1687143191&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F10643%2Flarge%2Fceth.png%3F1687143191&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          cETH
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          CETH
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        34.5
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        485,013,435
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        2.06
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        76
+      </div>
+      <img
+        alt="Flow"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F13446%2Flarge%2F5f6294c0c7a8cda55cb1c936_Flow_Wordmark.png%3F1631696776&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F13446%2Flarge%2F5f6294c0c7a8cda55cb1c936_Flow_Wordmark.png%3F1631696776&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F13446%2Flarge%2F5f6294c0c7a8cda55cb1c936_Flow_Wordmark.png%3F1631696776&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Flow
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          FLOW
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.468
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        484,287,306
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        2.02
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        77
+      </div>
+      <img
+        alt="PAX Gold"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F9519%2Flarge%2Fpaxgold.png%3F1687143101&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F9519%2Flarge%2Fpaxgold.png%3F1687143101&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F9519%2Flarge%2Fpaxgold.png%3F1687143101&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          PAX Gold
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          PAXG
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        1,846.98
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        457,933,139
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -1.18
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        79
+      </div>
+      <img
+        alt="KuCoin"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F1047%2Flarge%2Fsa9z79.png%3F1610678720&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F1047%2Flarge%2Fsa9z79.png%3F1610678720&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F1047%2Flarge%2Fsa9z79.png%3F1610678720&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          KuCoin
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          KCS
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        4.7
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        454,739,029
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        1.82
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        78
+      </div>
+      <img
+        alt="Rollbit Coin"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F24552%2Flarge%2FunziL6wO_400x400.jpg%3F1648134494&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F24552%2Flarge%2FunziL6wO_400x400.jpg%3F1648134494&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F24552%2Flarge%2FunziL6wO_400x400.jpg%3F1648134494&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Rollbit Coin
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          RLB
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.138
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        454,648,014
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        14.47
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        80
+      </div>
+      <img
+        alt="Frax Ether"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F28284%2Flarge%2FfrxETH_icon.png%3F1679886981&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F28284%2Flarge%2FfrxETH_icon.png%3F1679886981&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F28284%2Flarge%2FfrxETH_icon.png%3F1679886981&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Frax Ether
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          FRXETH
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        1,709.66
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        453,093,079
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        1.78
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        81
+      </div>
+      <img
+        alt="Tether Gold"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F10481%2Flarge%2FTether_Gold.png%3F1668148656&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F10481%2Flarge%2FTether_Gold.png%3F1668148656&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F10481%2Flarge%2FTether_Gold.png%3F1668148656&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Tether Gold
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          XAUT
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        1,830.93
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        451,369,109
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -1.31
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        82
+      </div>
+      <img
+        alt="ApeCoin"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F24383%2Flarge%2Fapecoin.jpg%3F1647476455&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F24383%2Flarge%2Fapecoin.jpg%3F1647476455&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F24383%2Flarge%2Fapecoin.jpg%3F1647476455&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          ApeCoin
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          APE
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        1.22
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        451,223,740
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -1.46
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        83
+      </div>
+      <img
+        alt="Curve DAO"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F12124%2Flarge%2FCurve.png%3F1597369484&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F12124%2Flarge%2FCurve.png%3F1597369484&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F12124%2Flarge%2FCurve.png%3F1597369484&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Curve DAO
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          CRV
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.513
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        450,995,864
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -1.30
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        84
+      </div>
+      <img
+        alt="Rocket Pool"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F2090%2Flarge%2Frocket_pool_%2528RPL%2529.png%3F1637662441&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F2090%2Flarge%2Frocket_pool_%2528RPL%2529.png%3F1637662441&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F2090%2Flarge%2Frocket_pool_%2528RPL%2529.png%3F1637662441&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Rocket Pool
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          RPL
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        22.8
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        450,758,968
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        1.95
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        85
+      </div>
+      <img
+        alt="Chiliz"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F8834%2Flarge%2FCHZ_Token_updated.png%3F1675848257&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F8834%2Flarge%2FCHZ_Token_updated.png%3F1675848257&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F8834%2Flarge%2FCHZ_Token_updated.png%3F1675848257&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Chiliz
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          CHZ
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.063
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        436,996,347
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -1.40
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        86
+      </div>
+      <img
+        alt="IOTA"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F692%2Flarge%2FIOTA_Swirl.png%3F1604238557&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F692%2Flarge%2FIOTA_Swirl.png%3F1604238557&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F692%2Flarge%2FIOTA_Swirl.png%3F1604238557&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          IOTA
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          IOTA
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.155
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        429,455,725
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        0.12
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        87
+      </div>
+      <img
+        alt="Frax Share"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F13423%2Flarge%2FFrax_Shares_icon.png%3F1679886947&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F13423%2Flarge%2FFrax_Shares_icon.png%3F1679886947&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F13423%2Flarge%2FFrax_Shares_icon.png%3F1679886947&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Frax Share
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          FXS
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        5.65
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        418,888,111
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -1.20
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        88
+      </div>
+      <img
+        alt="Sui"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F26375%2Flarge%2Fsui_asset.jpeg%3F1683114182&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F26375%2Flarge%2Fsui_asset.jpeg%3F1683114182&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F26375%2Flarge%2Fsui_asset.jpeg%3F1683114182&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Sui
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          SUI
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.484
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        416,605,064
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        0.71
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        89
+      </div>
+      <img
+        alt="First Digital USD"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F31079%2Flarge%2Ffirstfigital.jpeg%3F1690347713&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F31079%2Flarge%2Ffirstfigital.jpeg%3F1690347713&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F31079%2Flarge%2Ffirstfigital.jpeg%3F1690347713&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          First Digital USD
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          FDUSD
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        1
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        405,742,128
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        0.01
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        90
+      </div>
+      <img
+        alt="GALA"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F12493%2Flarge%2FGALA-COINGECKO.png%3F1600233435&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F12493%2Flarge%2FGALA-COINGECKO.png%3F1600233435&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F12493%2Flarge%2FGALA-COINGECKO.png%3F1600233435&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          GALA
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          GALA
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.015
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        401,298,547
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        3.39
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        91
+      </div>
+      <img
+        alt="Tokenize Xchange"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F4984%2Flarge%2FTKX_-_Logo_-_RGB-15.png%3F1672912391&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F4984%2Flarge%2FTKX_-_Logo_-_RGB-15.png%3F1672912391&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F4984%2Flarge%2FTKX_-_Logo_-_RGB-15.png%3F1672912391&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Tokenize Xchange
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          TKX
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        4.94
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        395,475,529
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -1.61
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        92
+      </div>
+      <img
+        alt="Huobi"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F2822%2Flarge%2Fhuobi-token-logo.png%3F1547036992&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F2822%2Flarge%2Fhuobi-token-logo.png%3F1547036992&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F2822%2Flarge%2Fhuobi-token-logo.png%3F1547036992&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Huobi
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          HT
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        2.4
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        382,355,213
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        0.24
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        93
+      </div>
+      <img
+        alt="Mina Protocol"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F15628%2Flarge%2FJM4_vQ34_400x400.png%3F1621394004&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F15628%2Flarge%2FJM4_vQ34_400x400.png%3F1621394004&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F15628%2Flarge%2FJM4_vQ34_400x400.png%3F1621394004&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Mina Protocol
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          MINA
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.39
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        380,926,240
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        0.15
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        94
+      </div>
+      <img
+        alt="Klaytn"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F9672%2Flarge%2Fklaytn.png%3F1660288824&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F9672%2Flarge%2Fklaytn.png%3F1660288824&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F9672%2Flarge%2Fklaytn.png%3F1660288824&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Klaytn
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          KLAY
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.118
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        374,888,604
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -0.11
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        95
+      </div>
+      <img
+        alt="BitTorrent"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F22457%2Flarge%2Fbtt_logo.png%3F1643857231&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F22457%2Flarge%2Fbtt_logo.png%3F1643857231&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F22457%2Flarge%2Fbtt_logo.png%3F1643857231&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          BitTorrent
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          BTT
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        373,661,698
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        1.13
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        96
+      </div>
+      <img
+        alt="Casper Network"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F15279%2Flarge%2Fcasper.PNG%3F1620341020&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F15279%2Flarge%2Fcasper.PNG%3F1620341020&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F15279%2Flarge%2Fcasper.PNG%3F1620341020&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Casper Network
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          CSPR
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0.033
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        370,815,575
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        1.71
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        97
+      </div>
+      <img
+        alt="Terra Luna Classic"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F8284%2Flarge%2F01_LunaClassic_color.png%3F1653547790&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F8284%2Flarge%2F01_LunaClassic_color.png%3F1653547790&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F8284%2Flarge%2F01_LunaClassic_color.png%3F1653547790&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Terra Luna Classic
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          LUNC
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        0
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        368,863,414
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        0.10
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        98
+      </div>
+      <img
+        alt="GMX"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F18323%2Flarge%2Farbit.png%3F1631532468&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F18323%2Flarge%2Farbit.png%3F1631532468&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F18323%2Flarge%2Farbit.png%3F1631532468&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          GMX
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          GMX
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        40
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        361,963,670
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        -4.42
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        99
+      </div>
+      <img
+        alt="dYdX"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F17500%2Flarge%2FhjnIm9bV.jpg%3F1628009360&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F17500%2Flarge%2FhjnIm9bV.jpg%3F1628009360&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F17500%2Flarge%2FhjnIm9bV.jpg%3F1628009360&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          dYdX
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          DYDX
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        2.04
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        358,573,640
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        2.98
+        %
+      </div>
+    </div>
+  </div>,
+  <div
+    className="flex flex-row bg-white mb-4 p-4 rounded-lg justify-between"
+  >
+    <div
+      className="identity flex flex-row space-x-4 items-center"
+    >
+      <div
+        className="rank text-xl text-gray-500"
+      >
+        100
+      </div>
+      <img
+        alt="Coinbase Wrapped Staked ETH"
+        data-nimg="1"
+        decoding="async"
+        height={48}
+        loading="lazy"
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F27008%2Flarge%2Fcbeth.png%3F1661390066&w=96&q=75"
+        srcSet="/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F27008%2Flarge%2Fcbeth.png%3F1661390066&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F27008%2Flarge%2Fcbeth.png%3F1661390066&w=96&q=75 2x"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={48}
+      />
+      <div
+        className="flex flex-col"
+      >
+        <div
+          className="text-gray-600 font-medium text-lg"
+        >
+          Coinbase Wrapped Staked ETH
+        </div>
+        <div
+          className="text-gray-400"
+        >
+          CBETH
+        </div>
+      </div>
+    </div>
+    <div
+      className="data flex flex-row items-center space-x-4"
+    >
+      <div
+        className="text-gray-600"
+      >
+        $
+        1,794.4
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        $
+        348,436,626
+      </div>
+      <div
+        className="text-gray-600"
+      >
+        1.78
+        %
+      </div>
+    </div>
+  </div>,
+]
+`;
